@@ -1,0 +1,39 @@
+.background{
+     min-height: 100vh;
+     align-items: center;
+     display: flex;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-image: url(hero.jpg);
+     color: white;
+     padding-left: 100px;
+}
+
+.row {
+     width: 99vw;
+}
+
+.facebook{
+     height: 30px;
+     width: 15px;
+}
+
+.twitter{
+     height: 25px;
+     width: 30px;
+}
+
+.instagram{
+     height: 30px;
+     width: 30px;
+}
+
+.SIGN-UP{
+     background-color: white;
+     border: 1px solid black;
+}
+
+.LOG-IN{
+     background-color: rgb(95, 98, 255);
+}
